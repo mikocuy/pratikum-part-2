@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\bin\Debug\net6.0\prar1.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\bin\Debug\net6.0\prar1.deps.json
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\bin\Debug\net6.0\prar1.runtimeconfig.json
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\bin\Debug\net6.0\prar1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\bin\Debug\net6.0\prar1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\refint\prar1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\prar1.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\prtikum\01\c3\prar1\obj\Debug\net6.0\ref\prar1.dll
